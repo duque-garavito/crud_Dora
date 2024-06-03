@@ -1,0 +1,14 @@
+C:\Users\garav\OneDrive\Documentos\Transporte\Dora\bin\Debug\Dora.exe.config
+C:\Users\garav\OneDrive\Documentos\Transporte\Dora\bin\Debug\Dora.exe
+C:\Users\garav\OneDrive\Documentos\Transporte\Dora\bin\Debug\Dora.pdb
+C:\Users\garav\OneDrive\Documentos\Transporte\Dora\bin\Debug\Dora.xml
+C:\Users\garav\OneDrive\Documentos\Transporte\Dora\obj\Debug\Dora.vbproj.AssemblyReference.cache
+C:\Users\garav\OneDrive\Documentos\Transporte\Dora\obj\Debug\Dora.Resources.resources
+C:\Users\garav\OneDrive\Documentos\Transporte\Dora\obj\Debug\Dora.vbproj.GenerateResource.cache
+C:\Users\garav\OneDrive\Documentos\Transporte\Dora\obj\Debug\Dora.vbproj.CoreCompileInputs.cache
+C:\Users\garav\OneDrive\Documentos\Transporte\Dora\obj\Debug\Dora.exe
+C:\Users\garav\OneDrive\Documentos\Transporte\Dora\obj\Debug\Dora.xml
+C:\Users\garav\OneDrive\Documentos\Transporte\Dora\obj\Debug\Dora.pdb
+C:\Users\garav\OneDrive\Documentos\Transporte\Dora\obj\Debug\Dora.Inicio.resources
+C:\Users\garav\OneDrive\Documentos\Transporte\Dora\obj\Debug\Dora.Viajes.resources
+C:\Users\garav\OneDrive\Documentos\Transporte\Dora\obj\Debug\Dora.Dialog.resources
